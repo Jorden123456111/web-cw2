@@ -5,7 +5,7 @@ Student ID: [Fill Your Student ID]
 Submission Date: 2026-05-12
 
 1) Video Demonstration Link
-[PASTE YOUR VIDEO URL HERE]
+https://raw.githubusercontent.com/Jorden123456111/web-cw2/master/media_out/coursework_video_audio_subs_5min.mp4
 
 Video checks completed:
 - Duration is within 5 minutes.
@@ -26,7 +26,7 @@ Compiled index file attached separately on Minerva:
 - data/index.json
 
 If attachment is too large, provide download link here:
-[OPTIONAL INDEX DOWNLOAD LINK]
+https://raw.githubusercontent.com/Jorden123456111/web-cw2/master/data/index.json
 
 4) GenAI Declaration (Required)
 GenAI tools were used for development support (scaffolding, debugging ideas, and test planning).
