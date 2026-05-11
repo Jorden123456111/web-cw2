@@ -13,7 +13,7 @@ Video checks completed:
 - Link tested in incognito/private mode.
 
 2) GitHub Repository URL
-https://github.com/Jorden123456111/web333
+https://github.com/Jorden123456111/web-cw2
 
 Repository contents include:
 - All source code files under src/
