@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "created_at_utc": "2026-05-12T00:00:00+00:00",
+    "start_url": "https://quotes.toscrape.com/",
+    "delay_seconds": 6.0,
+    "scope": "quotes",
+    "num_docs": 3,
+    "num_terms": 7
+  },
+  "pages_visited": [
+    "https://quotes.toscrape.com/",
+    "https://quotes.toscrape.com/page/1",
+    "https://quotes.toscrape.com/page/2"
+  ],
+  "crawl_errors": {},
+  "doc_meta": {
+    "https://quotes.toscrape.com/": {
+      "length": 6,
+      "title": "https://quotes.toscrape.com/"
+    },
+    "https://quotes.toscrape.com/page/1": {
+      "length": 5,
+      "title": "https://quotes.toscrape.com/page/1"
+    },
+    "https://quotes.toscrape.com/page/2": {
+      "length": 6,
+      "title": "https://quotes.toscrape.com/page/2"
+    }
+  },
+  "index": {
+    "good": {
+      "https://quotes.toscrape.com/": {
+        "freq": 2,
+        "positions": [
+          0,
+          4
+        ]
+      },
+      "https://quotes.toscrape.com/page/1": {
+        "freq": 1,
+        "positions": [
+          1
+        ]
+      }
+    },
+    "friends": {
+      "https://quotes.toscrape.com/": {
+        "freq": 1,
+        "positions": [
+          2
+        ]
+      },
+      "https://quotes.toscrape.com/page/2": {
+        "freq": 1,
+        "positions": [
+          0
+        ]
+      }
+    },
+    "books": {
+      "https://quotes.toscrape.com/": {
+        "freq": 1,
+        "positions": [
+          5
+        ]
+      }
+    },
+    "stay": {
+      "https://quotes.toscrape.com/page/1": {
+        "freq": 1,
+        "positions": [
+          0
+        ]
+      }
+    },
+    "humble": {
+      "https://quotes.toscrape.com/page/1": {
+        "freq": 1,
+        "positions": [
+          3
+        ]
+      }
+    },
+    "and": {
+      "https://quotes.toscrape.com/page/2": {
+        "freq": 1,
+        "positions": [
+          1
+        ]
+      }
+    },
+    "kind": {
+      "https://quotes.toscrape.com/page/2": {
+        "freq": 1,
+        "positions": [
+          2
+        ]
+      }
+    }
+  }
+}
+

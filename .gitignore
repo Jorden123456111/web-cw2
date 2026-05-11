@@ -1,0 +1,19 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local media working files
+media_work/
+
+# Optional local outputs
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large media
+media_out/coursework_video_audio_subs.mp4
+media_work/

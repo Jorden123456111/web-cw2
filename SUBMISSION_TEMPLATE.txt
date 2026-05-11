@@ -1,0 +1,37 @@
+COMP/XJCO3011 Coursework 2 Submission
+
+Student Name: [Your Name]
+Student ID: [Your ID]
+Date: [YYYY-MM-DD]
+
+1) Video Demonstration Link
+[Paste your video URL here]
+
+Notes:
+- Video duration is <= 5 minutes.
+- Link accessibility checked in incognito/private window.
+
+2) GitHub Repository Link
+[Paste your public GitHub repository URL here]
+
+Repository checklist:
+- Source code included
+- tests/ included
+- README.md included
+- requirements.txt included
+
+3) Index File Submission
+Option A (attached on Minerva):
+- Filename: [e.g., index.json]
+
+Option B (download link):
+- [Paste index download URL here]
+
+4) GenAI Declaration (brief)
+- Tools used: [e.g., ChatGPT/Copilot/None]
+- Purposes: [e.g., scaffolding, test brainstorming]
+- Critical evaluation included in video: Yes
+
+5) Final Confirmation
+- I confirm this submission is my own work and I can explain all code/design decisions.
+
