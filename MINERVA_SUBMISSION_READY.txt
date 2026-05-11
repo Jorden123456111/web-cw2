@@ -1,0 +1,40 @@
+COMP/XJCO3011 Coursework 2 Submission
+
+Student Name: [Fill Your Name]
+Student ID: [Fill Your Student ID]
+Submission Date: 2026-05-12
+
+1) Video Demonstration Link
+[PASTE YOUR VIDEO URL HERE]
+
+Video checks completed:
+- Duration is within 5 minutes.
+- Link permissions allow marker access.
+- Link tested in incognito/private mode.
+
+2) GitHub Repository URL
+https://github.com/Jorden123456111/web333
+
+Repository contents include:
+- All source code files under src/
+- Test files under tests/
+- README.md with setup and usage instructions
+- requirements.txt and supporting files
+
+3) Index File Submission
+Compiled index file attached separately on Minerva:
+- data/index.json
+
+If attachment is too large, provide download link here:
+[OPTIONAL INDEX DOWNLOAD LINK]
+
+4) GenAI Declaration (Required)
+GenAI tools were used for development support (scaffolding, debugging ideas, and test planning).
+All generated suggestions were validated and adjusted manually.
+Critical evaluation of GenAI use is included in the video demonstration.
+
+5) Academic Integrity Confirmation
+I confirm this submission reflects my own understanding and implementation.
+I can explain and justify all code and design decisions.
+All external contributions (including AI assistance) are declared appropriately.
+
